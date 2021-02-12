@@ -792,10 +792,10 @@
         "message": "闲置自动退出帐号（分钟）"
     },
     "_Automatically__Log_out_when_all_browsers_are_closed": {
-        "message": "Log out when all browsers are closed"
+        "message": "关闭所有浏览器后注销"
     },
     "_Automatically__Log_out_when_all_browsers_are_closed_": {
-        "message": "Log out when all browsers are closed."
+        "message": "关闭所有浏览器后注销."
     },
     "_Automatically_login_to_sites_if_time_since_last_login____seconds_": {
         "message": "自动登录到网站，如果距上次登录超过（秒）："
@@ -819,7 +819,7 @@
         "message": "亚述尔群岛"
     },
     "_Azure__A_D_reported_a_problem_during_login_": {
-        "message": "Azure AD reported a problem during login."
+        "message": "Azure AD在登录期间报告了一个问题."
     },
     "_B_A_C_K": {
         "message": "BACK"
@@ -1131,7 +1131,7 @@
         "message": "市/镇"
     },
     "_City____Town_is_required_when__Enable__Free__Credit__Monitoring_is_checked_": {
-        "message": "City/Town is required when you enable free credit monitoring."
+        "message": "启用免费信用监控时，城市/城镇是必需的."
     },
     "_Clear": {
         "message": "清除"
@@ -1167,7 +1167,7 @@
         "message": "Click %0Ask me for permission%0. The Firefox permission request is displayed."
     },
     "_Click__Cancel_if_you_don_t_trust_this_site_": {
-        "message": "Click Cancel if you don't trust this site."
+        "message": "如果您不信任此网站，请单击“取消”。"
     },
     "_Click__Icons_in__Fields": {
         "message": "点击界面图标"
@@ -1248,7 +1248,7 @@
         "message": "确认"
     },
     "_Confirm__Deletion": {
-        "message": "Confirm Deletion"
+        "message": "确认删除"
     },
     "_Confirm__Password": {
         "message": "确认密码"
@@ -1299,10 +1299,10 @@
         "message": "联系人"
     },
     "_Contact_your__Azure__A_D_administrator_for_assistance_": {
-        "message": "Contact your Azure AD administrator for assistance."
+        "message": "请与Azure AD管理员联系以获取帮助."
     },
     "_Contact_your__s_administrator_for_assistance_": {
-        "message": "Contact your %s administrator for assistance."
+        "message": "请与 %s 管理员联系以获取帮助."
     },
     "_Continue": {
         "message": "继续"
@@ -1311,7 +1311,7 @@
         "message": "若被选中文件的名称中含有控制字符，将不会对其进行处理"
     },
     "_Conversion__Successful": {
-        "message": "Conversion Successful"
+        "message": "转换成功"
     },
     "_Convert": {
         "message": "Convert"
@@ -1320,10 +1320,10 @@
         "message": "转换为企业版"
     },
     "_Convert_to__Legacy__Shared__Folder": {
-        "message": "Convert to Legacy Shared Folder"
+        "message": "转换为旧共享文件夹"
     },
     "_Convert_to__Shared__Folder": {
-        "message": "Convert to Shared Folder"
+        "message": "转换为共享文件夹"
     },
     "_Cook__Islands": {
         "message": "库克群岛"
@@ -1515,7 +1515,7 @@
         "message": "立即注册帐号。"
     },
     "_Create_an_encryption_key___0_Don_t_forget_it__0__It_can_t_be_recovered___You_ll_need_it_to_decrypt_your_exported_info_": {
-        "message": "Create an encryption key. %0Don't forget it!%0 It can't be recovered! You'll need it to decrypt your exported info."
+        "message": "创建加密密钥. %0Don't forget it!%0 It can't be recovered! 你需要它来解密你导出的信息。"
     },
     "_Create_and_manage_folders_of_shared_logins_and_notes_": {
         "message": "创建和管理已共享的登录项和笔记的文件夹。"
@@ -1539,10 +1539,10 @@
         "message": "信用卡"
     },
     "_Credit_cards__addresses__and_other_info_can_now_be_filled_on_any_site___just_like_your_passwords___None_of_your_info_is_gone__it_s_just_moved_": {
-        "message": "Fill credit cards, addresses, and other info to any site, just like you do with passwords."
+        "message": "填写信用卡，地址和其他信息到任何网站，就像你做的密码."
     },
     "_Credit_monitoring_is_only_available_for_addresses_in_the__United__States_": {
-        "message": "Credit monitoring is only available for addresses in the United States."
+        "message": "信用监控只适用于美国的地址."
     },
     "_Croatia": {
         "message": "克罗地亚"
@@ -1554,7 +1554,7 @@
         "message": "古巴"
     },
     "_Current__Azure__A_D_account_": {
-        "message": "Current Azure AD account:"
+        "message": "当前Azure AD帐户:"
     },
     "_Current__s_account_": {
         "message": "Current %s account:"
@@ -1566,10 +1566,10 @@
         "message": "定制项目"
     },
     "_Custom__Note__Template___s_created_": {
-        "message": "Custom Note Template: %s created."
+        "message": "自定义便笺模板：%s 已创建."
     },
     "_Custom__Note__Template___s_deleted_": {
-        "message": "Custom Note Template: %s deleted."
+        "message": "自定义便笺模板：%s 已删除."
     },
     "_Custom_item": {
         "message": "Custom item"
@@ -1644,7 +1644,7 @@
         "message": "默认"
     },
     "_Default__Form__Fill": {
-        "message": "Default Form Fill"
+        "message": "默认表单填充"
     },
     "_Delaware": {
         "message": "特拉华州"
@@ -1686,7 +1686,7 @@
         "message": "说明"
     },
     "_Designate_a_family_member_to_receive_access_to_your__Last_Pass_account_in_case_of_an_emergency_": {
-        "message": "Give someone you trust access to your vault in case of emergency."
+        "message": "在紧急情况下让你信任的人进入你的保险库."
     },
     "_Dining": {
         "message": "餐饮"
@@ -1701,7 +1701,7 @@
         "message": "Disable Autofill"
     },
     "_Disable__Browser__Password__Management": {
-        "message": "Prevent Browser from Managing Passwords"
+        "message": "阻止浏览器管理密码"
     },
     "_Disable__Browser__Password__Manager": {
         "message": "禁用浏览器的密码管理功能"
@@ -1788,10 +1788,10 @@
         "message": "多米尼加共和国"
     },
     "_Don_t_miss_out_the_best__Last_Pass_features___Install__Last_Pass_extension_to_avoid_limitations_": {
-        "message": "Don’t miss out the best LastPass features. Install LastPass extension to avoid limitations."
+        "message": "不要错过最好的LastPass功能。安装LastPass扩展以避免限制."
     },
     "_Don_t_reach_for_your_wallet_": {
-        "message": "Don't reach for your wallet."
+        "message": "不要伸手拿钱包."
     },
     "_Don_t_show_this_for__s": {
         "message": "不再对 %s 显示此项"
@@ -1971,7 +1971,7 @@
         "message": "紧急访问应该只在真正发生紧急情况，并且您需要管理该用户的保险库时请求。"
     },
     "_Emergency_access_is_a_feature_that_is_only_available_for__Last_Pass__Premium_or__Last_Pass__Families_users______With_emergency_access__you_give_someone_you_trust_the_ability_to_access_your_vault_items_in_the_event_that_you_cannot______0_Learn_more_0": {
-        "message": "Emergency Access is only available with LastPass Premium and LastPass Families.\n   Give someone you trust access to your vault in case of emergency.\n   %0Learn more%0"
+        "message": "紧急通道仅适用于LastPass Premium和LastPass系列.\n   在紧急情况下让你信任的人进入你的保险库.\n   %0Learn more%0"
     },
     "_Enable": {
         "message": "启用"
@@ -1983,7 +1983,7 @@
         "message": "启用免费的信用监控"
     },
     "_Enable__Multi__Factor__Authentication": {
-        "message": "Enable Multifactor Authentication"
+        "message": "启用多因素身份验证"
     },
     "_Enable__Native__Messaging": {
         "message": "启用本机通讯端口"
@@ -1995,7 +1995,7 @@
         "message": "启用滚动"
     },
     "_Enable_infield_popup": {
-        "message": "Enable in-field popup"
+        "message": "启用字段内弹出菜单"
     },
     "_Enable_new_login_screen": {
         "message": "使用新版登录界面"
@@ -2127,7 +2127,7 @@
         "message": "导出到"
     },
     "_Extension__Preferences": {
-        "message": "Extension Preferences"
+        "message": "扩展首选项"
     },
     "_F_A_Q": {
         "message": "常见问题"
@@ -2265,7 +2265,7 @@
         "message": "填写表单"
     },
     "_Fill__In__Default__Form__Fill": {
-        "message": "Fill In Default Form Fill"
+        "message": "填写默认表格填写"
     },
     "_Fill__In__Next__Login___When__Multiple_": {
         "message": "填写下一个登录项（当有多个ID时）"
@@ -2712,22 +2712,22 @@
         "message": "帮助..."
     },
     "_Help_improve__Last_Pass": {
-        "message": "Help improve LastPass"
+        "message": "帮助改进LastPass"
     },
     "_Help_improve__Last_Pass_on_this_site": {
-        "message": "Help improve LastPass on this site"
+        "message": "帮助改进此站点上的LastPass"
     },
     "_Help_us_understand_the_issue__but_never_send_personal_information_or_passwords_": {
-        "message": "Help us understand the issue, but never send personal information or passwords!"
+        "message": "帮助我们了解问题，但不要发送个人信息或密码！"
     },
     "_Helpful_details_": {
-        "message": "Helpful details:"
+        "message": "有用的细节:"
     },
     "_Here_s_the_message_from__Azure__A_D_": {
-        "message": "Here's the message from Azure AD:"
+        "message": "这是来自Azure广告的消息:"
     },
     "_Here_s_the_message_from__s_": {
-        "message": "Here's the message from %s:"
+        "message": "以下是来自 %s:"
     },
     "_Hide": {
         "message": "隐藏"
@@ -2742,10 +2742,10 @@
         "message": "隐藏右键菜单选项"
     },
     "_Hide__History": {
-        "message": "Hide History"
+        "message": "隐藏历史记录"
     },
     "_Hide__Options": {
-        "message": "Hide Options"
+        "message": "隐藏选项"
     },
     "_Hide__Password": {
         "message": "隐藏密码"
@@ -2802,7 +2802,7 @@
         "message": "我不同意"
     },
     "_I_agree_to_the__0_Last_Pass__Terms_0_and__1_Privacy__Policy_1": {
-        "message": "I agree to the %0LastPass Terms%0 and %1Privacy Policy%1"
+        "message": "我同意 %0LastPass条款%0 和 %1隐私策略%1 "
     },
     "_I_m_done": {
         "message": "I'm done"
@@ -4956,7 +4956,7 @@
         "message": "重新发送邀请"
     },
     "_Respect__Auto_Complete_off__allow_websites_to_disable__Auto_Fill": {
-        "message": "Respect AutoComplete=off: allow websites to disable Autofill"
+        "message": "尊重AutoComplete=off:允许网站禁用自动填充"
     },
     "_Restart__Required": {
         "message": "重新请求"
@@ -5547,7 +5547,7 @@
         "message": "在浏览器下方显示通知"
     },
     "_Show_notifications_via_browser_toolbar_icon": {
-        "message": "Show notifications via browser toolbar icon"
+        "message": "通过浏览器工具栏图标显示通知"
     },
     "_Sierra__Leone": {
         "message": "塞拉利昂"
@@ -5661,19 +5661,19 @@
         "message": "Something went wrong, please try again."
     },
     "_Something_went_wrong_while_reading_the_selected_file___Confirm_that_the_file_exists_and_isn_t_corrupted_and_that_you_have_permission_to_view_it_": {
-        "message": "Something went wrong while reading the selected file. Confirm that the file exists and isn't corrupted and that you have permission to view it."
+        "message": "读取所选文件时出错。确认文件存在且未损坏，并且您有权查看该文件."
     },
     "_Sorry___Last_Pass__Enterprise_users_can_not_act_as_emergency_contacts_": {
         "message": "抱歉，LastPass 企业版用户不能作为紧急联系人。"
     },
     "_Sorry___Last_Pass__Premium_is_required_to_create_a__Shared__Family__Folder": {
-        "message": "Shared Family Folders are available with LastPass Premium"
+        "message": "LastPass Premium提供共享家庭文件夹"
     },
     "_Sorry___group_names_starting_with___Shared___are_created_by__Last_Pass_to_indicate_groups_shared_with_other_people___Please_use_a_different_name_": {
         "message": "抱歉 - 组名称不能以 'Shared-' 开头，这被 LastPass 用来表示与其他人共享的群组。请换用其他名称。"
     },
     "_Sorry__as_a_premium_user__you_are_limited_to_one__Shared__Folder___Please_consider_using__Last_Pass__Enterprise_if_you_would_like_more_": {
-        "message": "To share additional folders, you'll need LastPass Enterprise."
+        "message": "若要共享其他文件夹，您需要LastPass Enterprise."
     },
     "_Sorry__company_policy_prohibits_use_of_this_feature_": {
         "message": "抱歉，公司政策禁止使用此功能。"
@@ -5691,7 +5691,7 @@
         "message": "Sorry, you can't attach that file. Supported file types are:"
     },
     "_Sorry__you_can_t_attach_that_file___Try_again_using_a_file_up_to_10__M_B_of_any_supported_type_____Documents__csv__doc__docx__odt__ppt__pptx__txt__xls__xlsx__pdf__rtf__html__htm____Media__png__gif__jpg__m4a__mpg__wav__avi__mov__tiff__tif__jpeg__wmv____Other__tsv__zip__rar__log__key": {
-        "message": "Sorry, you can't attach that file.\nTry again using a file up to 10 MB of any supported type.\n• Documents: csv, doc, docx, odt, ppt, pptx, txt, xls, xlsx, pdf, rtf, html, htm\n• Media: png, gif, jpg, m4a, mpg, wav, avi, mov, tiff, tif, jpeg, wmv\n• Other: tsv, zip, rar, log, key"
+        "message": "很抱歉，您无法附加该文件。\n请使用任何支持类型的最大10 MB的文件重试。\n•文档：csv、doc、docx、odt、ppt、pptx、txt、xls、xlsx、pdf、rtf、html、htm\n•媒体：png、gif、jpg、m4a、mpg、wav、avi、mov、tiff、tif、jpeg、wmv\n•其他：tsv、zip、rar、log、key"
     },
     "_Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
         "message": "抱歉，您无法对共享和非共享的文件夹混合执行操作，或者一次对多个共享的文件夹执行操作。"
@@ -5766,22 +5766,22 @@
         "message": "州/省"
     },
     "_State_is_required_when__Enable__Free__Credit__Monitoring_is_checked_": {
-        "message": "State is required when you enable free credit monitoring."
+        "message": "启用免费信用监控时，状态是必需的."
     },
     "_Status": {
         "message": "状态"
     },
     "_Step_1_of_2___Click_the__0_0__Last_Pass_icon": {
-        "message": "Step 1 of 2: Click the %0%0 LastPass icon"
+        "message": "Step 1 of 2: 单击 %0%0 上次传递图标"
     },
     "_Step_1_of_2___Log_in_to_your__s_account": {
-        "message": "Step 1 of 2: Log in to your %s account"
+        "message": "Step 1 of 2: 登录到您的 %s 帐户"
     },
     "_Step_2_of_2___Add_this_site_to__Last_Pass": {
-        "message": "Step 2 of 2: Add this site to LastPass"
+        "message": "Step 2 of 2: 将此网站添加到LastPass"
     },
     "_Step_2_of_2___Select_your_account": {
-        "message": "Step 2 of 2: Select your account"
+        "message": "Step 2 of 2: 选择您的帐户"
     },
     "_Sticky__Password": {
         "message": "Sticky Password"
@@ -5793,16 +5793,16 @@
         "message": "存储每个笔记"
     },
     "_Store___share_unlimited_items_with_trusted_friends_and_family_with__Last_Pass__Premium_": {
-        "message": "Store & share unlimited items with trusted friends and family with LastPass Premium."
+        "message": "使用LastPass Premium与值得信赖的朋友和家人存储和共享无限的物品."
     },
     "_Store_account_and_routing_numbers_as_well_as_other_banking_information_to_streamline_online_bill_pay_": {
-        "message": "Streamline online bill pay with stored banking information such as account and routing numbers."
+        "message": "使用存储的银行信息（如帐号和路由号码）简化在线账单支付."
     },
     "_Store_every_note": {
         "message": "存储每个笔记"
     },
     "_Store_important_memos_and_notes_securely_for_easy_access_": {
-        "message": "Store important memos and notes securely for easy access."
+        "message": "安全地存储重要的备忘录和笔记，以便访问."
     },
     "_Streaming__Media": {
         "message": "Streaming Media"
@@ -5874,16 +5874,16 @@
         "message": "Take LastPass everywhere"
     },
     "_Take_a_guided_tour_of_your__Last_Pass_vault_and_see_how__Last_Pass_keeps_you_secure_": {
-        "message": "Take a guided tour of your LastPass vault and see how LastPass keeps you secure."
+        "message": "在导游的带领下参观LastPass保险库，看看LastPass如何确保您的安全."
     },
     "_Take_a_tour_of_your_new_vault_to_explore_some_of_the_new_features_of_your__Last_Pass__Families_account_": {
-        "message": "Take a tour of your new vault to explore some of the new features of your LastPass Families account."
+        "message": "参观您的新vault，探索LastPass家庭帐户的一些新功能."
     },
     "_Take_the_tour": {
-        "message": "Take the tour"
+        "message": "去旅行吧"
     },
     "_Take_your_online_security_to_the_next_level_with__Last_Pass__Premium": {
-        "message": "Take your online security to the next level with LastPass Premium"
+        "message": "使用LastPass Premium将您的在线安全提升到一个新的水平"
     },
     "_Tanzania___United__Republic__Of": {
         "message": "坦桑尼亚联合共和国"
@@ -5901,10 +5901,10 @@
         "message": "电话"
     },
     "_Tell_a_story_unique_to_you_like___0_0__________________________1_Fidoate_my2woolsox_1": {
-        "message": "Tell a story unique to you. %0%0\n                        %1Fidoate!my2woolsox%1"
+        "message": "讲一个你独有的故事. %0%0\n                        %1Fidoate!my2woolsox%1"
     },
     "_Template_must_contain_at_least_one_field_": {
-        "message": "Add at least one field."
+        "message": "至少添加一个字段."
     },
     "_Tennessee": {
         "message": "田纳西州"
@@ -5934,7 +5934,7 @@
         "message": "该文件不存在或者为空。请输入要导入文件的完整路径。"
     },
     "_That_folder_already_exists_": {
-        "message": "That folder already exists."
+        "message": "该文件夹已存在."
     },
     "_The__Democratic__Republic_of__The__Congo": {
         "message": "刚果民主共和国"
@@ -5952,19 +5952,19 @@
         "message": "在此站点上载入的 LastPass 弹出框已被阻挡。请使用 LastPass 图标进行填写。"
     },
     "_The_account_you_are_logging_into_was_either_hacked_or_was_reusing_a_password_from_a_site_that_was_hacked___You_should_take_action_now_to_change_this_password_": {
-        "message": "This site has either been hacked or uses a password from a hacked site. You should change the password you use for this site."
+        "message": "此网站已被黑客攻击或使用来自被黑客攻击网站的密码。您应该更改此网站的密码."
     },
     "_The_binary_version_of_the__Last_Pass_plugin_is_required_for_this_operation___It_can_be_downloaded_from_lastpass_com_": {
         "message": "此操作需要二进制版的 LastPass 插件。可从 lastpass.com 下载。"
     },
     "_The_final_step_is_to_migrate_your_form_fill_profiles_to_their_new_homes___this_process_should_only_take_a_minute_": {
-        "message": "The final step is to migrate your form fill profiles to their new homes - this process should only take a minute."
+        "message": "最后一步是将您的表单填充配置文件迁移到他们的新家-此过程只需一分钟。"
     },
     "_The_following_emails_are_invalid___s": {
-        "message": "These emails are invalid: %s"
+        "message": "这些电子邮件无效: %s"
     },
     "_The_following_friends_have_marked_your_invitations_as_spam___s_": {
-        "message": "These friends have marked your invitations as spam: %s."
+        "message": "这些朋友已将你的邀请标记为垃圾邮件: %s."
     },
     "_The_following_items_have_already_been_shared_individually_and_cannot_be_moved_to_a_shared_folder_": {
         "message": "下列项目已与您单独共享，不能移动到一个已共享的文件夹："
@@ -5979,7 +5979,7 @@
         "message": "下列用户目前有共享密钥。"
     },
     "_The_master_password_you_entered_is_incorrect___Please_try_again_": {
-        "message": "Incorrect master password. Try again."
+        "message": "主密码不正确。再试一次."
     },
     "_The_notes_field_contains_too_much_data___You_may_store_a_maximum_of_45_000_characters_per_note___Would_you_like_us_to_truncate_the_note_for_you___You_will_lose_some_of_your_data_": {
         "message": "笔记字段包含太多数据。您可以在每个笔记中存储最多45000个字符。您想让我们为您截断笔记内容吗？那样将丢失部分数据。"
@@ -6009,13 +6009,13 @@
         "message": "The wrong information filled"
     },
     "_There_s_a_lot_more_to_discover__but_we_hope_this_tour_was_a_helpful_start___You_can_revisit_any_time_by_selecting__More_options____Help____Vault__Tour_": {
-        "message": "There's a lot more to discover, but we hope this tour was a helpful start. You can revisit any time by selecting More options - Help - Vault Tour."
+        "message": "还有很多东西要发现，但我们希望这次旅行是一个有益的开始。通过选择更多选项-帮助-Vault教程，您可以随时重新访问."
     },
     "_These_can_be_auto_filled_into_any_form___They_contain_your_contact_information__address__phone__email__and_more": {
-        "message": "These can be filled in to any form. They contain your contact information: address, phone, email, and more"
+        "message": "这些表格可以填成任何形式。它们包含您的联系信息：地址、电话、电子邮件等"
     },
     "_These_can_be_auto_filled_into_any_form___They_contain_your_contact_information__address__phone__email__and_more_": {
-        "message": "These can be filled in to any form. They contain your contact information: address, phone, email, and more."
+        "message": "这些表格可以填成任何形式。它们包含您的联系信息：地址、电话、电子邮件等."
     },
     "_These_preferences_are_stored_on_your_computer_or_device__you_will_see_this_message_again_if_you_delete_browser_information__or_use_a_different_computer___The_best_way_to_avoid_this_message_is_to_change_your__Last_Pass__Master__Password_": {
         "message": "这些首选项存储在您的计算机或设备上，如果您删除了浏览器的信息，或者换用了另一台计算机，您会再次看到此信息。消除此信息的最佳方式就是改变您的 LastPass 主密码。"
@@ -6033,7 +6033,7 @@
         "message": "此计算机已信任，30天内不需要进行两步验证。"
     },
     "_This_feature_is_not_available_in_this_version___Please_install_the_binary_extension_by_going_to__s": {
-        "message": "This feature is not available in this version. Please install the binary extension by going to %s"
+        "message": "此功能在此版本中不可用。请转到 %s 安装二进制扩展"
     },
     "_This_feature_requires_an_external_binary_component__which_is_currently_not_supported_on_this_platform_": {
         "message": "此功能需要一个外部二进制组件，目前不支持此平台。"
@@ -6042,10 +6042,10 @@
         "message": "此功能需要适合此浏览器的二进制版本。是否立即安装？"
     },
     "_This_is_a__Shared_item__and_can_not_be_updated___Only_the__Owner_can_update_this_item_": {
-        "message": "This shared item can only be edited by its owner. To change it, recreate it in your own vault."
+        "message": "此共享项只能由其所有者编辑。要更改它，请在自己的vault中重新创建它."
     },
     "_This_is_a_legacy_folder_and_may_include_users_who_are_not_in_your__Family_": {
-        "message": "This legacy folder may include users who aren't in your Families account."
+        "message": "此旧文件夹可能包含不在您的家庭帐户中的用户."
     },
     "_This_is_a_potential_security_risk__because_anyone_who_learns_the_password_for_that_site_may_gain_access_to_all_of_your_accounts___Last_Pass_strongly_recommends_that_your__Master__Password_should_not_be_used_on_any_other_website_": {
         "message": "这是一个潜在的安全风险，因为任何获知该站点密码的人都可能借此访问您的所有账户。LastPass 强烈建议您不应该在任何其他网站上使用您的主密码。"
@@ -6063,7 +6063,7 @@
         "message": "这是此网页的名称或者网址。"
     },
     "_This_looks_like_your_first_time_running__Last_Pass___Please_click_below_to_enable_the__Last_Pass__Safari_extension_": {
-        "message": "This looks like your first time here. Click to enable the LastPass Safari extension."
+        "message": "这看起来像是你第一次来这里。单击以启用LastPass Safari扩展."
     },
     "_This_request_cannot_be_completed_because_you_are_currently_offline_": {
         "message": "这个请求无法完成，因为您目前处于脱机状态。"
@@ -6489,7 +6489,7 @@
         "message": "Verify Linked Account"
     },
     "_Verify__Linked__Personal__Account": {
-        "message": "Verify Linked Personal Account"
+        "message": "验证链接的个人帐户"
     },
     "_Verify__Your__Email__Address": {
         "message": "验证您的电子邮件地址"
@@ -6504,13 +6504,13 @@
         "message": "版本："
     },
     "_Victim_of_identity_theft___Our_team_of_experts_investigate_and_help_restore_your_records": {
-        "message": "Victim of identity theft? Our team can investigate and help restore your records"
+        "message": "身份盗窃的受害者？我们的团队可以调查并帮助恢复您的记录"
     },
     "_Viet__Nam": {
         "message": "越南"
     },
     "_View__All__Fillable__Items": {
-        "message": "View All Fillable Items"
+        "message": "查看所有可填充项"
     },
     "_View__Deleted__Shared__Folders": {
         "message": "查看已删除的共享文件夹"
@@ -6555,13 +6555,13 @@
         "message": "华盛顿"
     },
     "_We_could_not_register_your_purchase_": {
-        "message": "We couldn't register your purchase."
+        "message": "我们无法注册您的购买."
     },
     "_We_couldn_t_download_your_attachment___If_the_problem_persists__contact__Last_Pass_support_": {
-        "message": "We couldn't download your attachment. If the problem persists, contact LastPass support."
+        "message": "我们无法下载你的附件。如果问题仍然存在，请与LastPass支持部门联系."
     },
     "_We_detected_that_a_site_you_use_has_announced_it_was_hacked___Please_change_your_password_for_that_site_now_": {
-        "message": "A site you use has announced it was hacked. Please change your password for that site."
+        "message": "你使用的一个网站已经宣布被黑客入侵。请更改该站点的密码."
     },
     "_We_failed_to_share_with_the_following_users_": {
         "message": "向下列用户分享失败："
@@ -6570,28 +6570,28 @@
         "message": "我们发现您还未授予 LastPass 访问本机通讯端口。原生消息是必需的，用以提供：与其他浏览器共享登录状态、指纹认证、导入导出、附件支持等功能。"
     },
     "_We_ll_help_you_save_your_first_password___Pick_a_site_below_that_you_use_": {
-        "message": "We'll help you save your first password. Choose a site you use."
+        "message": "我们将帮助您保存第一个密码。选择您使用的站点."
     },
     "_We_re_sorry___We_were_not_able_to_change_your_password_automatically_for__s___Your_password_was_not_changed_": {
         "message": "很抱歉，我们无法自动更改您在 %s 的密码。您的密码未变更。"
     },
     "_We_review_all_feedback__but_can_t_respond_directly___To_open_a_support_ticket__please": {
-        "message": "We review all feedback, but can't respond directly. To open a support ticket, please"
+        "message": "我们审查所有反馈，但不能直接回应。请开一张支持票"
     },
     "_We_sent_a_push_notification_to_your_device___Please_accept_this_request_to_perform_the_update_": {
-        "message": "Check your device for a notification from LastPass. Accept it to perform the update."
+        "message": "检查您的设备是否有来自LastPass的通知。接受它以执行更新."
     },
     "_We_ve_got_something_for_you_": {
         "message": "We've got something for you!"
     },
     "_We_ve_got_you_covered_with_form_fill_profiles___Add_your_payment_cards_and_contact_info__so_you_can_checkout_in_a_few_clicks__no_typing_required_": {
-        "message": "We've got you covered with form fill profiles. Add your payment cards and contact info so you can checkout in a few clicks, no typing required."
+        "message": "我们给你填了表格。添加您的支付卡和联系信息，以便您可以签出在几次点击，无需键入."
     },
     "_We_ve_organized_the__Vault_by_what_things_are_instead_of_how_they_re_used___All_your_saved_items_are_here__in_the_left_sidebar_": {
-        "message": "We've organized the Vault by what things are instead of how they're used. All your saved items are here, in the left sidebar."
+        "message": "我们把保险库组织起来是看东西是什么而不是怎么用的。所有保存的项目都在这里，在左侧边栏中."
     },
     "_We_ve_reorganized_some_things_in_your__Vault_": {
-        "message": "We've reorganized your vault a bit!"
+        "message": "我们重新整理了一下你的保险库!"
     },
     "_We_ve_updated_your_password": {
         "message": "We've updated your password"
@@ -7209,7 +7209,7 @@
         "message": "%s reported a problem during login."
     },
     "_s_requested_emergency_access_to_your_vault___They_will_receive_access_on__s": {
-        "message": "This person requested emergency access to your vault: %s. They will receive access on %s"
+        "message": "此人请求紧急访问您的保险库：%s 。他们将在 %s 上获得访问权限"
     },
     "_s_was_added_": {
         "message": "%s was added."
@@ -7221,16 +7221,16 @@
         "message": "%s was deleted."
     },
     "_s_was_invited___We_will_send_you_a_notification_email_when_they_join__Last_Pass_so_you_can_retry_sharing_your_data_with_them_": {
-        "message": "%s friends were invited. You'll get an email from LastPass when they take action and are ready for sharing."
+        "message": "%S 的朋友被邀请了. 当他们采取行动并准备好分享时，你会收到一封来自LastPass的电子邮件."
     },
     "_s_was_moved_to__s_": {
         "message": "%s was moved to %s."
     },
     "_s_was_organized_to__s_": {
-        "message": "%s was organized to %s."
+        "message": "%s 被组织为 %s."
     },
     "_s_was_purged_": {
-        "message": "%s was purged."
+        "message": "%s 被清除了."
     },
     "_s_was_removed_": {
         "message": "%s was removed."
@@ -7239,13 +7239,13 @@
         "message": "%s was renamed."
     },
     "_s_was_restored_": {
-        "message": "%s was restored."
+        "message": "%s 恢复."
     },
     "_s_was_saved_": {
         "message": "%s was saved."
     },
     "_s_will_no_longer_be_downloaded_": {
-        "message": "%s will no longer be downloaded."
+        "message": "%s 将不再下载."
     },
     "_s_will_now_attempt_to_change_your_password_to_a_strong__generated_password_that_will_be_saved_in_your_vault_and_known_only_to_you_": {
         "message": "%s 将尝试将您当前的密码更换为一个高强度的随机密码，此密码将自动存入您的保险库，并只由您一人掌控。"
